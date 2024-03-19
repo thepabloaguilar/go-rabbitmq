@@ -6,9 +6,9 @@ import (
 	"time"
 
 	amqp "github.com/rabbitmq/amqp091-go"
-	"github.com/wagslane/go-rabbitmq/internal/connectionmanager"
-	"github.com/wagslane/go-rabbitmq/internal/dispatcher"
-	"github.com/wagslane/go-rabbitmq/internal/logger"
+	"github.com/thepabloaguilar/go-rabbitmq/internal/connectionmanager"
+	"github.com/thepabloaguilar/go-rabbitmq/internal/dispatcher"
+	"github.com/thepabloaguilar/go-rabbitmq/internal/logger"
 )
 
 // ChannelManager -
